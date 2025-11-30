@@ -1,0 +1,1 @@
+print("SMK Miftahul Hikmah")
